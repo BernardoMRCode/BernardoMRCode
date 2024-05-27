@@ -1,22 +1,21 @@
-<!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Desenvolvedor%20Fullstack&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<h1 align='center'> Hello, I am Bernardo Mendes Ribeiro </h1>
-### I am a systems analyst and developer, currently in the 3rd semester of Systems Analysis and Development. Let's build something amazing together!
+<h1 align='center'> Olá, eu sou Bernardo Mendes Ribeiro </h1>
+### Sou analista de sistemas e desenvolvedor, atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas. Vamos construir algo incrível juntos!
 
 <h4 align="center">
-    <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+    <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> Minhas Estatísticas no Github <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 </h4>
 
 <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BernardoMRCode&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Your GitHub Stats" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BernardoMRCode&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Suas Estatísticas do GitHub" />
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoMRCode&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <br>
 <br>
 <summary>
-    <h3> 📚 Social Media</h3>
+    <h3> 📚 Redes Sociais</h3>
 </summary>
 <div>
     <a href="https://www.youtube.com/donarbe" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -30,23 +29,23 @@
 <br>
 
 <summary>
-    <h3> 📚 Learnings and Hobbies </h3>
+    <h3> 📚 Aprendizados e Hobbies </h3>
 </summary>
 
-* I am learning about Google Analytics, organic traffic, leadership methodologies, and some group interaction techniques.
-* I share my daily studies and learnings on my Instagram. Check it out [Instagram](https://instagram.com/_DonarBe);
-* I love 🥤 Coffee, 🎮 Games, and 🎭 Arts. Especially, photos and music.
+* Estou aprendendo sobre Google Analytics, tráfego orgânico, metodologias de liderança e algumas técnicas de interação em grupo.
+* Compartilho meus estudos e aprendizados diários no meu Instagram. Confira [Instagram](https://instagram.com/_DonarBe);
+* Amo 🥤 Café, 🎮 Jogos e 🎭 Artes. Especialmente, fotos e música.
 
 <hr>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
+Sou um aprendiz rápido e ansioso para explorar novas tecnologias. Defensor do desenvolvimento de software ágil, trabalho em equipe e código limpo. Capaz e pronto para pensar fora da caixa.
 
-I'm a well-organized person very passionate and dedicated to my work. I'm used to always finishing my work until the end.
+Sou uma pessoa bem organizada, muito apaixonada e dedicada ao meu trabalho. Estou acostumado a sempre terminar meu trabalho até o fim.
 
-I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open to new opportunities.
+Nunca desisto. Prefiro continuar aprendendo, desafiando-me e fazendo coisas interessantes que importam. Gosto de desenvolver expertise em várias áreas ao longo da minha vida e estou sempre aberto a novas oportunidades.
 
-### Main skills:
+### Principais habilidades:
 <div style="display:inline_block"><br>
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -61,23 +60,23 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 
 <hr>
 
-### On My GitHub
-1. ⬆️ Pushed 1 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
-2. ⬆️ Pushed 1 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
-3. ⬆️ Pushed 1 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
-4. ⬆️ Pushed 1 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
-5. ⬆️ Pushed 2 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
+### No Meu GitHub
+1. ⬆️ Enviei 1 commit(s) para [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
+2. ⬆️ Enviei 1 commit(s) para [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
+3. ⬆️ Enviei 1 commit(s) para [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
+4. ⬆️ Enviei 1 commit(s) para [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
+5. ⬆️ Enviei 2 commit(s) para [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
 
 <hr>
 
-## Favorite Ebooks
+## Ebooks Favoritos
 <div align="center">
-    <img align="center" alt="The 48 Laws of Power" height="200" width="150" src="https://m.media-amazon.com/images/I/617iS--XOQL._AC_UF1000,1000_QL80_.jpg" />
-    <img align="center" alt="The Art of War" height="200" width="150" src="https://m.media-amazon.com/images/I/51Fe45NGwkL._AC_UF1000,1000_QL80_.jpg" />
-    <img align="center" alt="The Prince" height="200" width="150" src="https://m.media-amazon.com/images/I/81h4CdNxdgL._AC_UF1000,1000_QL80_.jpg" />
-    <img align="center" alt="Rich Dad Poor Dad" height="200" width="150" src="https://m.media-amazon.com/images/I/81ALgAW3gHL._AC_UF1000,1000_QL80_.jpg" />
-    <img align="center" alt="Influence: The Psychology of Persuasion" height="200" width="150" src="https://m.media-amazon.com/images/I/31BWaAh-7bL._AC_UF894,1000_QL80_.jpg" />
-    <img align="center" alt="Mindset: The New Psychology of Success" height="200" width="150" src="https://m.media-amazon.com/images/I/41+7a4RuENL.jpg" />
+    <img align="center" alt="As 48 Leis do Poder" height="200" width="150" src="https://m.media-amazon.com/images/I/617iS--XOQL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="A Arte da Guerra" height="200" width="150" src="https://m.media-amazon.com/images/I/51Fe45NGwkL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="O Príncipe" height="200" width="150" src="https://m.media-amazon.com/images/I/81h4CdNxdgL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="Pai Rico, Pai Pobre" height="200" width="150" src="https://m.media-amazon.com/images/I/81ALgAW3gHL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="Influência: A Psicologia da Persuasão" height="200" width="150" src="https://m.media-amazon.com/images/I/31BWaAh-7bL._AC_UF894,1000_QL80_.jpg" />
+    <img align="center" alt="Mentalidade: A Nova Psicologia do Sucesso" height="200" width="150" src="https://m.media-amazon.com/images/I/41+7a4RuENL.jpg" />
 </div>
 
 <hr>
@@ -85,3 +84,4 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
