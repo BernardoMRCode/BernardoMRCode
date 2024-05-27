@@ -62,51 +62,28 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 
 <hr>
 
-### On My Blog (in Portuguese)
-<!-- BLOG:START -->
-- [“Conversando” com uma IA: perguntei ao Bard, do Google, sobre o trabalho do futuro](https://camilaloliveira.com.br/blog/milla/conversando-com-uma-ia-perguntei-ao-bard-do-google-sobre-o-trabalho-do-futuro/)
-- [O desafio do debate: a guerra de informações sobre o PL das Fake News](https://camilaloliveira.com.br/blog/milla/o-desafio-do-debate-a-guerra-de-informacoes-sobre-o-pl-das-fake-news/)
-- [Precisamos conversar sobre a violência](https://prensa.li/@clcmo/precisamos-conversar-sobre-a-violencia)
-- [E o Mundo Caiu?](https://prensa.li/@clcmo/e-o-mundo-caiu)
-<!-- BLOG:END -->
-
-### On My YouTube (in Portuguese)
-<!-- YOUTUBE:START -->
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk"><img width="200px" src="https://i.ytimg.com/vi/LMZ6nu2wDXk/mqdefault.jpg"></a></td>
-    <td width="800px"><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk">Exemplo de App criado em Flutter para Android</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=mPbHteaCD6o"><img width="200px" src="https://i.ytimg.com/vi/mPbHteaCD6o/mqdefault.jpg"></a></td>
-    <td width="800px"><a href="https://www.youtube.com/watch?v=mPbHteaCD6o">Exemplo de App criado em Flutter para iOS</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU"><img width="200px" src="https://i.ytimg.com/vi/gGDdalEaHVU/mqdefault.jpg"></a></td>
-    <td width="800px"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU">Conhecendo o jogo Destiny 2</a><br/>Dec 27, 2022</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do"><img width="200px" src="https://i.ytimg.com/vi/_qQlRJ88-Do/mqdefault.jpg"></a></td>
-    <td width="800px"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do">Jogando GT ao vivo</a><br/>Oct 26, 2022</td></tr></table>
-<!-- YOUTUBE:END -->
-
 ### On My GitHub
-<!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
 2. ⬆️ Pushed 1 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
 3. ⬆️ Pushed 1 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
 4. ⬆️ Pushed 1 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
 5. ⬆️ Pushed 2 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
-<!--RECENT_ACTIVITY:end-->
+
 
 <hr>
 
 ## Favorite Ebooks
 <div align="center">
-    <img align="center" alt="Ebook1" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-cyWrkZ1Y4gnObYhGu9EAwAAAA%26pid%3DApi&f=1&ipt=47d4acb41e114394971e6af81b8ba95451997bf0bc6bd27c05bba11ec5f287a9&ipo=images" />
-    <img align="center" alt="Ebook2" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ufnjUbUSIw5hya5U3hcR_AHaKe%26pid%3DApi&f=1&ipt=66d887e08f568d1bb5fc57967d576d40797fee639bdc723acbff30cda12b1b86&ipo=images" />
-    <img align="center" alt="Ebook3" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.b3pAJT41DRn8sBZ-GeKfVQAAAA%26pid%3DApi&f=1&ipt=30d196ff402d8c80576a3b7f349bdf2f4072383bd20679162cedac5ca9420b68&ipo=images" />
-    <img align="center" alt="Ebook4" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Kroo7mqB1v5_GOh8xly5OQAAAA%26pid%3DApi&f=1&ipt=b5892e57c744d79700f0c52fee743b151305b908d27f31ccac49cf25b1e7bff9&ipo=images" />
-    <img align="center" alt="Ebook5" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.h9AzDOU5zqmMAa4DP64GnwHaJ8%26pid%3DApi&f=1&ipt=fcdc17a100c0feee0e5075d041de54558ebb24908b93616329aeef25f9ff12a8&ipo=images" />
-    <img align="center" alt="Ebook6" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/I/811EGiSqCPL.jpg" />
-    <img align="center" alt="Ebook7" height="200" width="150" src="https://github.com/D4Fi/D4Fi/assets/139288494/a7e7b66c-a835-49ca-a2d3-eafc0690086c" />
+    <img align="center" alt="As 48 Leis do Poder" height="200" width="150" src="https://m.media-amazon.com/images/I/617iS--XOQL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="A Arte da Guerra" height="200" width="150" src="https://m.media-amazon.com/images/I/51Fe45NGwkL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="O Príncipe" height="200" width="150" src="https://m.media-amazon.com/images/I/81h4CdNxdgL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="Pai Rico, Pai Pobre" height="200" width="150" src="https://m.media-amazon.com/images/I/81ALgAW3gHL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="Influência: A Psicologia da Persuasão" height="200" width="150" src="https://m.media-amazon.com/images/I/31BWaAh-7bL._AC_UF894,1000_QL80_.jpg" />
+    <img align="center" alt="Mindset: A Nova Psicologia do Sucesso" height="200" width="150" src="https://m.media-amazon.com/images/I/41+7a4RuENL.jpg" />
 </div>
 
 <hr>
 
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
-<!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
