@@ -2,9 +2,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-</div>
 <h1 align='center'> Hello, I am Bernardo Mendes Ribeiro </h1>
-### Sou analista e desenvolvedor de sistemas, atualmente cursando o 3º período de Análise e Desenvolvimento de Sistemas.nidade de desenvolvedores. Vamos construir algo incrível juntos!
+### I am a systems analyst and developer, currently in the 3rd semester of Systems Analysis and Development. Let's build something amazing together!
 
 <h4 align="center">
     <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
@@ -34,16 +33,16 @@
     <h3> 📚 Learnings and Hobbies </h3>
 </summary>
 
-* Estou aprendendo sobre Google Analytics, tráfego orgânico, metodologias de liderança e algumas técnicas de convivência em grupo.
-* Compartilho meu dia a dia de estudos e aprendizados no meu Instagram. Confira já [Instagram](https://instagram.com/_DonarBe);
-* I love 🥤 Coffe, 🎮 Games, and 🎭 Arts. Especially, photos and music.
+* I am learning about Google Analytics, organic traffic, leadership methodologies, and some group interaction techniques.
+* I share my daily studies and learnings on my Instagram. Check it out [Instagram](https://instagram.com/_DonarBe);
+* I love 🥤 Coffee, 🎮 Games, and 🎭 Arts. Especially, photos and music.
 
 <hr>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
 
-I'm a well-organized person very passionate and dedicated to my work. I'm used to always finish my work until the end.
+I'm a well-organized person very passionate and dedicated to my work. I'm used to always finishing my work until the end.
 
 I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open to new opportunities.
 
@@ -69,17 +68,16 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 4. ⬆️ Pushed 1 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
 5. ⬆️ Pushed 2 commit(s) to [BernardoMRCode/encurtai](https://github.com/BernardoMRCode/encurtai)<br>
 
-
 <hr>
 
 ## Favorite Ebooks
 <div align="center">
-    <img align="center" alt="As 48 Leis do Poder" height="200" width="150" src="https://m.media-amazon.com/images/I/617iS--XOQL._AC_UF1000,1000_QL80_.jpg" />
-    <img align="center" alt="A Arte da Guerra" height="200" width="150" src="https://m.media-amazon.com/images/I/51Fe45NGwkL._AC_UF1000,1000_QL80_.jpg" />
-    <img align="center" alt="O Príncipe" height="200" width="150" src="https://m.media-amazon.com/images/I/81h4CdNxdgL._AC_UF1000,1000_QL80_.jpg" />
-    <img align="center" alt="Pai Rico, Pai Pobre" height="200" width="150" src="https://m.media-amazon.com/images/I/81ALgAW3gHL._AC_UF1000,1000_QL80_.jpg" />
-    <img align="center" alt="Influência: A Psicologia da Persuasão" height="200" width="150" src="https://m.media-amazon.com/images/I/31BWaAh-7bL._AC_UF894,1000_QL80_.jpg" />
-    <img align="center" alt="Mindset: A Nova Psicologia do Sucesso" height="200" width="150" src="https://m.media-amazon.com/images/I/41+7a4RuENL.jpg" />
+    <img align="center" alt="The 48 Laws of Power" height="200" width="150" src="https://m.media-amazon.com/images/I/617iS--XOQL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="The Art of War" height="200" width="150" src="https://m.media-amazon.com/images/I/51Fe45NGwkL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="The Prince" height="200" width="150" src="https://m.media-amazon.com/images/I/81h4CdNxdgL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="Rich Dad Poor Dad" height="200" width="150" src="https://m.media-amazon.com/images/I/81ALgAW3gHL._AC_UF1000,1000_QL80_.jpg" />
+    <img align="center" alt="Influence: The Psychology of Persuasion" height="200" width="150" src="https://m.media-amazon.com/images/I/31BWaAh-7bL._AC_UF894,1000_QL80_.jpg" />
+    <img align="center" alt="Mindset: The New Psychology of Success" height="200" width="150" src="https://m.media-amazon.com/images/I/41+7a4RuENL.jpg" />
 </div>
 
 <hr>
